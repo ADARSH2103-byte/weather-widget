@@ -1,4 +1,4 @@
-# 🌦️ React Weather Widget
+# 🌦️ Weather Widget
 
 A simple weather widget built using **React** that displays current weather information for a selected location.
 
